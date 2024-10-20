@@ -1,2 +1,2 @@
-# hw4_functin_vorobev
+# hw4_function_vorobev
 введение в функции js
